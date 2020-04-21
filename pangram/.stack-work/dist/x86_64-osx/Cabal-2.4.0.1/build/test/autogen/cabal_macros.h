@@ -22,6 +22,28 @@
   (major1) == 4 && (major2) == 12 && (minor) <= 0)
 #endif /* MIN_VERSION_base */
 
+/* package hspec-2.7.1 */
+#ifndef VERSION_hspec
+#define VERSION_hspec "2.7.1"
+#endif /* VERSION_hspec */
+#ifndef MIN_VERSION_hspec
+#define MIN_VERSION_hspec(major1,major2,minor) (\
+  (major1) <  2 || \
+  (major1) == 2 && (major2) <  7 || \
+  (major1) == 2 && (major2) == 7 && (minor) <= 1)
+#endif /* MIN_VERSION_hspec */
+
+/* package pangram-2.0.0.12 */
+#ifndef VERSION_pangram
+#define VERSION_pangram "2.0.0.12"
+#endif /* VERSION_pangram */
+#ifndef MIN_VERSION_pangram
+#define MIN_VERSION_pangram(major1,major2,minor) (\
+  (major1) <  2 || \
+  (major1) == 2 && (major2) <  0 || \
+  (major1) == 2 && (major2) == 0 && (minor) <= 0)
+#endif /* MIN_VERSION_pangram */
+
 /* tool gcc-4.2.1 */
 #ifndef TOOL_VERSION_gcc
 #define TOOL_VERSION_gcc "4.2.1"
@@ -99,11 +121,8 @@
   (major1) == 8 && (major2) == 6 && (minor) <= 5)
 #endif /* MIN_TOOL_VERSION_runghc */
 
-#ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "pangram-2.0.0.12-3HuNhBsbuV22BnmwnP7fAr"
-#endif /* CURRENT_PACKAGE_KEY */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "pangram-2.0.0.12-3HuNhBsbuV22BnmwnP7fAr"
+#define CURRENT_COMPONENT_ID "pangram-2.0.0.12-92Iq4yxTGNbFDpnjHAjBNi-test"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "2.0.0.12"

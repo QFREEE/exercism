@@ -30,7 +30,7 @@ version = Version [2,0,0,12] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/bin"
-libdir     = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/lib/x86_64-osx-ghc-8.6.5/pangram-2.0.0.12-3HuNhBsbuV22BnmwnP7fAr"
+libdir     = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/lib/x86_64-osx-ghc-8.6.5/pangram-2.0.0.12-92Iq4yxTGNbFDpnjHAjBNi-test"
 dynlibdir  = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/lib/x86_64-osx-ghc-8.6.5"
 datadir    = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/share/x86_64-osx-ghc-8.6.5/pangram-2.0.0.12"
 libexecdir = "/Users/yuntong/Exercism/haskell/pangram/.stack-work/install/x86_64-osx/3727e50464d2db997bf1bd83611c4182959e1985f77994220568b4bc97c694de/8.6.5/libexec/x86_64-osx-ghc-8.6.5/pangram-2.0.0.12"
